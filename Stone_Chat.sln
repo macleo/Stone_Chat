@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.ChatClient", "Stone.ChatClient\Stone.ChatClient.csproj", "{BDAEFAC0-A64C-4E65-825E-EC343DB6F429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.ChatServer", "Stone.ChatServer\Stone.ChatServer.csproj", "{BD095294-A697-4152-B3B7-1ADA01AAA740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stone.SocketCommon", "Stone.SocketCommon\Stone.SocketCommon.csproj", "{38AB797B-576D-455D-8C2E-A782132B6893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAEFAC0-A64C-4E65-825E-EC343DB6F429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAEFAC0-A64C-4E65-825E-EC343DB6F429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAEFAC0-A64C-4E65-825E-EC343DB6F429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAEFAC0-A64C-4E65-825E-EC343DB6F429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD095294-A697-4152-B3B7-1ADA01AAA740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD095294-A697-4152-B3B7-1ADA01AAA740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD095294-A697-4152-B3B7-1ADA01AAA740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD095294-A697-4152-B3B7-1ADA01AAA740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AB797B-576D-455D-8C2E-A782132B6893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AB797B-576D-455D-8C2E-A782132B6893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AB797B-576D-455D-8C2E-A782132B6893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AB797B-576D-455D-8C2E-A782132B6893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
