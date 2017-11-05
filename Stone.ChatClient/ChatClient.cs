@@ -73,14 +73,14 @@ namespace Stone.ChatClient
                 return;
             }
             txtUserName.Enabled = false;
-            this.btnLogin.Enabled = false;
-            this.buttom_Send.Enabled = true;
+            this.btn_login.Enabled = false;
+            this.btn_Send.Enabled = true;
             if (!socketServer.ConnectServer())
             {
                 MessageBox.Show(this, "登录失败！");
                 txtUserName.Enabled = true;
-                this.btnLogin.Enabled = true;
-                this.buttom_Send.Enabled = false;
+                this.btn_login.Enabled = true;
+                this.btn_Send.Enabled = false;
             }
             else
             {
@@ -162,8 +162,8 @@ namespace Stone.ChatClient
                             ErrorRequestInfo errorInfo = (ErrorRequestInfo)baseInfo;
                             MessageBox.Show(this, errorInfo.Content);
                             txtUserName.Enabled = true;
-                            this.btnLogin.Enabled = true;
-                            this.buttom_Send.Enabled = false;
+                            this.btn_login.Enabled = true;
+                            this.btn_Send.Enabled = false;
                             break;
                     }
                 }

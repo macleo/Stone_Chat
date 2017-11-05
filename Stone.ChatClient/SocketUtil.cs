@@ -125,7 +125,7 @@ namespace Stone.ChatClient
                 }
                 catch (Exception ex)
                 {
-                    if (IsExit == false)
+                    //if (IsExit == false)
                     {
                         Utils.SaveLog("断开与服务器的连接", ex.Message);
                     }

@@ -1,0 +1,13 @@
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\Stone.SocketCommon.dll
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\Stone.SocketCommon.pdb
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\log4net.dll
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\Newtonsoft.Json.dll
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\SuperSocket.Common.dll
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\SuperSocket.Facility.dll
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\SuperSocket.SocketBase.dll
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\SuperSocket.SocketEngine.dll
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\System.Data.SQLite.DLL
+C:\project\Stone_Chat\Stone.SocketCommon\bin\Debug\System.Threading.dll
+C:\project\Stone_Chat\Stone.SocketCommon\obj\Debug\Stone.SocketCommon.csproj.CoreCompileInputs.cache
+C:\project\Stone_Chat\Stone.SocketCommon\obj\Debug\Stone.SocketCommon.dll
+C:\project\Stone_Chat\Stone.SocketCommon\obj\Debug\Stone.SocketCommon.pdb

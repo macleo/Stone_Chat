@@ -1,0 +1,112 @@
+--------------------------------断开与服务器的连接[15:24]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------Client接收数据异常[15:24]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------receiveData:[15:24]--------------------------------
+服务器关闭:Welcome to SuperSocket Server!
+
+ 
+--------------------------------断开与服务器的连接[15:25]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------Client接收数据异常[15:25]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------receiveData:[15:26]--------------------------------
+服务器关闭:Welcome to SuperSocket Server!
+
+ 
+--------------------------------断开与服务器的连接[15:26]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------Client接收数据异常[15:26]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------receiveData:[15:27]--------------------------------
+服务器关闭:Welcome to SuperSocket Server!
+
+ 
+--------------------------------断开与服务器的连接[15:30]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------Client接收数据异常[15:30]--------------------------------
+Invalid character in a Base-64 string.
+
+ 
+--------------------------------receiveData:[15:30]--------------------------------
+服务器关闭:Welcome to SuperSocket Server!
+
+ 
+--------------------------------断开与服务器的连接[15:32]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------Client接收数据异常[15:32]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------receiveData:[15:32]--------------------------------
+服务器关闭:
+
+ 
+--------------------------------断开与服务器的连接[15:32]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------Client接收数据异常[15:32]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------receiveData:[15:33]--------------------------------
+服务器关闭:
+
+ 
+--------------------------------SendMessage[15:34]--------------------------------
+eyJLZXkiOm51bGwsIkZyb21Vc2VyTmFtZSI6Im1hY2xlbyIsIlRvVXNlck5hbWUiOiJBbGwiLCJDb250ZW50IjoiMTExMSIsIkNyZWF0ZVRpbWUiOiIwMDAxLTAxLTAxVDAwOjAwOjAwIiwiTXNnVHlwZSI6MTAwMX0=
+
+ 
+--------------------------------SendMessage[15:34]--------------------------------
+eyJLZXkiOm51bGwsIkZyb21Vc2VyTmFtZSI6Im1hY2xlbyIsIlRvVXNlck5hbWUiOiJBbGwiLCJDb250ZW50Ijoi5ZWK5omL5Yqo6ZiAIiwiQ3JlYXRlVGltZSI6IjAwMDEtMDEtMDFUMDA6MDA6MDAiLCJNc2dUeXBlIjoxMDAxfQ==
+
+ 
+--------------------------------SendMessage[15:40]--------------------------------
+eyJLZXkiOm51bGwsIkZyb21Vc2VyTmFtZSI6Im1hY2xlbyIsIlRvVXNlck5hbWUiOiJBbGwiLCJDb250ZW50Ijoi5ZWK5ZWK5ZWK5ZWKIiwiQ3JlYXRlVGltZSI6IjAwMDEtMDEtMDFUMDA6MDA6MDAiLCJNc2dUeXBlIjoxMDAxfQ==
+
+ 
+--------------------------------断开与服务器的连接[15:42]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------Client接收数据异常[15:42]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------receiveData:[15:44]--------------------------------
+服务器关闭:
+
+ 
+--------------------------------SendMessage[15:51]--------------------------------
+eyJLZXkiOm51bGwsIkZyb21Vc2VyTmFtZSI6ImdnIiwiVG9Vc2VyTmFtZSI6IkFsbCIsIkNvbnRlbnQiOiIxMTExIiwiQ3JlYXRlVGltZSI6IjAwMDEtMDEtMDFUMDA6MDA6MDAiLCJNc2dUeXBlIjoxMDAxfQ==
+
+ 
+--------------------------------断开与服务器的连接[15:53]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------Client接收数据异常[15:53]--------------------------------
+Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+
+ 
+--------------------------------receiveData:[15:53]--------------------------------
+服务器关闭:
+
+ 
